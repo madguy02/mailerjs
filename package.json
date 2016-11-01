@@ -1,0 +1,10 @@
+{
+	
+	"name"  : "mailerjs",
+	"version": "1.1.1",
+	"license" : "MIT",
+	"description" : "A command line url opener",
+	"main" : "./mailer.js"
+
+
+}
